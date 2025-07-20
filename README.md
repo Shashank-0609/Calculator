@@ -8,7 +8,7 @@ Addition, subtraction, multiplication, division
 
 Squaring function (x²)
 
-Percentage calculation (%)
+Modulus function (%)
 
 Clear all (AC)
 
@@ -27,10 +27,11 @@ JavaScript
 Bootstrap
 
 **Getting Started**
-Clone the repository:
+
+1. Clone the repository:
 
 2. Open the `index.html` file in any web browser.
 
 Live Demo
 
-You can view the live version of the calculator [here] 
+You can view the live version of the calculator https://calculator-shashanke06.netlify.app/
