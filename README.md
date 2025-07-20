@@ -1,2 +1,33 @@
-# Calculator
-A responsive calculator built using HTML, CSS, JavaScript, and Bootstrap. Supports basic arithmetic operations (+, −, ×, ÷), percentage, square, clear (AC), and backspace (DEL) functionality with a clean and user-friendly interface.
+Web Calculator
+The responsive web calculator presented here is crafted entirely with HTML, CSS, JavaScript, and Bootstrap, boasting complete support for fundamental arithmetic tasks: addition, subtraction, multiplication, division, squaring, percentage calculations, a full clear operation (AC), and a backspace delete (DEL) function.
+
+Features
+Addition, subtraction, multiplication, division
+
+Squaring function (x²)
+
+Percentage calculation (%)
+
+Clear all (AC)
+
+Backspace delete (DEL)
+
+Adaptive Bootstrap layout
+
+Technologies
+HTML
+
+CSS
+
+JavaScript
+
+Bootstrap
+
+Getting Started
+Clone the repository:
+
+2. Open the `index.html` file in any web browser.
+
+Live Demo
+
+You can view the live version of the calculator [here] https://Shashank-0609.github.io/Calculator
